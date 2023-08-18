@@ -58,7 +58,7 @@ body {
   background-image: url(../images/main-bg.png);
   background-repeat: no-repeat;
   background-position: center bottom;
-  background-size: auto;
+  background-size: contain;
 }
 .container {
   position: relative;

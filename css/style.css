@@ -64,6 +64,7 @@ body {
   position: relative;
   max-width: 1172px;
   margin: 0 auto;
+  overflow-x: hidden;
 }
 .title {
   color: #3A3F6C;
